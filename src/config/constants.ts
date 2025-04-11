@@ -83,6 +83,9 @@ export const PROFILE_CONTACT_ITEMS = [
   },
 ];
 
+export const SKILL_DESCRIPTION =
+  "私はReactを使ったWeb開発が得意です。UI/UXの向上から、フルスタックWeb開発まで、幅広く興味を持っています。そして、日々学習を継続しています。";
+
 // 技術スキル（名前/評価値）
 export const SKILL_DATA = [
   { subject: "React/Next.js", value: 90 },
